@@ -1,0 +1,15 @@
+/Users/jakefairbairn/Downloads/K_Means_CS/bin/Debug/net5.0/K_Means_CS.deps.json
+/Users/jakefairbairn/Downloads/K_Means_CS/bin/Debug/net5.0/K_Means_CS.runtimeconfig.json
+/Users/jakefairbairn/Downloads/K_Means_CS/bin/Debug/net5.0/K_Means_CS.runtimeconfig.dev.json
+/Users/jakefairbairn/Downloads/K_Means_CS/bin/Debug/net5.0/K_Means_CS.dll
+/Users/jakefairbairn/Downloads/K_Means_CS/bin/Debug/net5.0/ref/K_Means_CS.dll
+/Users/jakefairbairn/Downloads/K_Means_CS/bin/Debug/net5.0/K_Means_CS.pdb
+/Users/jakefairbairn/Downloads/K_Means_CS/obj/Debug/net5.0/K_Means_CS.csprojAssemblyReference.cache
+/Users/jakefairbairn/Downloads/K_Means_CS/obj/Debug/net5.0/K_Means_CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakefairbairn/Downloads/K_Means_CS/obj/Debug/net5.0/K_Means_CS.AssemblyInfoInputs.cache
+/Users/jakefairbairn/Downloads/K_Means_CS/obj/Debug/net5.0/K_Means_CS.AssemblyInfo.cs
+/Users/jakefairbairn/Downloads/K_Means_CS/obj/Debug/net5.0/K_Means_CS.csproj.CoreCompileInputs.cache
+/Users/jakefairbairn/Downloads/K_Means_CS/obj/Debug/net5.0/K_Means_CS.dll
+/Users/jakefairbairn/Downloads/K_Means_CS/obj/Debug/net5.0/ref/K_Means_CS.dll
+/Users/jakefairbairn/Downloads/K_Means_CS/obj/Debug/net5.0/K_Means_CS.pdb
+/Users/jakefairbairn/Downloads/K_Means_CS/obj/Debug/net5.0/K_Means_CS.genruntimeconfig.cache
